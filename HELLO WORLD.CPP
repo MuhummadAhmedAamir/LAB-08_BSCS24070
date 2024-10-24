@@ -2,8 +2,7 @@
 using namespace std;
 
 int main (){
-cout << "Hello World";
+cout << "Hello World!This is my ICT lab 8 in which i learned about basics of git and github...";
 
-cout << " hi";
 return 0;
 }
